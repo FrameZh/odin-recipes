@@ -1,0 +1,18 @@
+body {
+    background-color:#fffde9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: 1000;
+    color: green;
+}
+
+h2 {
+    background-color: rgb(30, 207, 30);
+    color: #ffffff;
+}
+
+.dot {
+    color: rgb(30, 207, 30);
+}

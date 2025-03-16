@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 249, 200);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(223, 128, 104);
+    font-weight: 1000;
+}
+
+h2 {
+    background-color: rgb(250, 173, 137);
+    color: white;
+}
+
+.dot {
+    color: rgba(88, 34, 8, 0.897);
+    font-weight: 700;
+}
