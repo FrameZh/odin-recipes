@@ -6,6 +6,18 @@ body {
 h1 {
     font-weight: 1000;
     color: green;
+    font-size: 70px;
+    text-align: center;
+    border: 10px dotted rgb(11, 187, 64);
+    margin: 60px 300px;
+    padding: 30px;
+    background-color: aliceblue;
+}
+
+.image {
+    width: 1060px;
+    margin: 0 auto;
+    border: 15px dashed rgb(255, 255, 255);
 }
 
 img {
